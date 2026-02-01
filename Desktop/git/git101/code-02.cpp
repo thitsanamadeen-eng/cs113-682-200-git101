@@ -1,7 +1,8 @@
 #include <iostream>
+
 using namespace std;
 
 int main() {
-    cout << "love C++" << endl;
+    cout << "Hello Git in C++" << endl;
     return 0;
 }
